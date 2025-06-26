@@ -1,4 +1,4 @@
-### A console-based movie ticket booking system implemented in C++ using object-oriented programming principles. The project includes features for both customers and managers, such as movie addition/removal, seat booking and cancellation, and revenue calculation. Demonstrates encapsulation, inheritance, access control, and static data handling.
+  A console-based movie ticket booking system implemented in C++ using object-oriented programming principles. The project includes features for both customers and managers, such as movie addition/removal, seat booking and cancellation, and revenue calculation. Demonstrates encapsulation, inheritance, access control, and static data handling.
 ## Features
 - User Registration and Login System
 - Role-based Access: Customer and Manager
